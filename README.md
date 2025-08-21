@@ -3,12 +3,14 @@
 File hash comparison tool. Written in Go.
 
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/lexionq/gompare?style=for-the-badge&logoColor=blue&color=blue">
-  <img src="https://img.shields.io/github/languages/top/lexionq/gompare?style=for-the-badge&color=cyan">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/lexionq/gompare?style=for-the-badge&logoColor=blue&color=purple">
+  <img src="https://img.shields.io/github/languages/top/lexionq/gompare?style=for-the-badge&color=cyan&">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/lexionq/gompare?style=for-the-badge">
+
 </p>
 
 <p align="center">
-  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/lexionq/mango?style=for-the-badge&color=darkblue&cacheSeconds=2">
+  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/lexionq/gompare?style=for-the-badge&color=darkblue&cacheSeconds=2">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/lexionq/gompare/go.yml?style=for-the-badge&color=darkgreen">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lexionq/gompare?style=for-the-badge">
 </p>
