@@ -8,7 +8,7 @@ File hash comparison tool. Written in Go.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/go-mod/go-version/lexionq/gompare?style=for-the-badge&color=darkblue">
+  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/lexionq/mango?style=for-the-badge&color=darkblue&cacheSeconds=2">
   <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/lexionq/gompare/go.yml?style=for-the-badge&color=darkgreen">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lexionq/gompare?style=for-the-badge">
 </p>
