@@ -8,7 +8,7 @@ File hash comparison tool. Written in Go.
 
 ## Installation
 
-- Enter [this GitHub repo]{https://github.com/lexionq/gompare}
+- Enter [this GitHub repo](https://github.com/lexionq/gompare)
 
 - Download file named `gompare`
 
