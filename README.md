@@ -13,10 +13,15 @@ File hash comparison tool. Written in Go.
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lexionq/gompare?style=for-the-badge">
 </p>
 
-
 ## Usage
 
-`gompare <file1_path> <file2_path>`
+- Compare files:
+
+`gompare --file <file1_path> <file2_path>`
+
+- Compare file&hash:
+
+`gompare --hash <file_path> <hash>`
 
 ## Installation
 
@@ -24,4 +29,9 @@ File hash comparison tool. Written in Go.
 
 - Download file named `gompare`
 
-- Run file in your shell.
+- Run this commands:
+
+```bash
+chmod +x gompare
+sudo mv gompare /usr/bin/gompare
+```
